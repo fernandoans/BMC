@@ -9,7 +9,7 @@ Execução:
 java -jar BCM.jar
 ```
 
-![Inicial](telaIncial.png) 
+![Inicial](telaInicial.png) 
 
 Ao ser aberto, teremos a visão da planilha BCM com suas 9 áreas. Ao clicar com o botão direito do mouse sobre a planilha temos as seguintes opções a disposição:
 
